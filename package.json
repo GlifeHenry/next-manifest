@@ -28,6 +28,6 @@
   ],
   "dependencies": {
     "@pwa/manifest": "^1.1.0",
-    "@pwa/manifest-icons": "^4.0.0"
+    "@pwa/manifest-icons": "GlifeHenry/pwa-manifest-icons"
   }
 }
